@@ -60,14 +60,3 @@ Yanıtladığınız anketlere verilen popüler cevapları görebilir, anket dold
 Surveysaurus anket uygulamasının şu anki versiyonunda anketlere verilmiş olan popüler cevapların oranlarını görebiliyorsunuz. Bu özelliğin ileri versiyonlarında verilen popüler cevapların Dünya Haritası üzerinde gösterilmesi olacak. Kullanıcı haritada, hangi ülkede hangi cevap yoğunlukta verildiyse o cevabı görebilecek.
 
 Diğer bir yeni özellik kullanıcılar arasında etkileşimi arttıracak bir özellik olacaktır. Kullanıcılar uygulama içerisinde birbirlerinin profillerini görüntüleyebilecek ve birbirlerinin anketlerini çözebilecek.
-
-
-
-
-
-
-
-  
- 
-
-
